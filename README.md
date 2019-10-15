@@ -3,11 +3,11 @@
 ***If you use this dataset in your research, please cite our paper:***
 
 ```
-@article{zhuang2017care,
-  title={Care about you: towards large-scale human-centric visual relationship detection},
-  author={Zhuang, Bohan and Wu, Qi and Shen, Chunhua and Reid, Ian and Hengel, Anton van den},
-  journal={arXiv preprint arXiv:1705.09892},
-  year={2017}
+@inproceedings{zhuang2018hcvrd,
+  title={Hcvrd: a benchmark for large-scale human-centered visual relationship detection},
+  author={Zhuang, Bohan and Wu, Qi and Shen, Chunhua and Reid, Ian and van den Hengel, Anton},
+  booktitle={Thirty-Second AAAI Conference on Artificial Intelligence},
+  year={2018}
 }
 ```
 
